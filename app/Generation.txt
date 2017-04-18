@@ -1,2 +1,0 @@
-This table stores the generation production statistics
-- should be able to combine it with the fuel_burn table
