@@ -1,0 +1,12 @@
+Prices table houses various items which can be described with:
+- valuation date
+- instrument id
+- period
+- price
+
+
+Instrument IDs for the gas indices are
+- Tetco-ELA
+- Texas-Z1
+- Lebanon-Hub
+- Henry-Hub
