@@ -2,3 +2,9 @@ Create logo for KEAN - some variant of KE logo
 Consolidate code to read PJM DA data and PJM RT data
 Create wrapper code for reporting module
   - use tuples for 'cells'
+Develop methodology for estimating emissions cost (operating_costs table)
+Develop methodology for estimating ancillary revenue (operating costs table)
+Develop methodology for estimating capacity price using $-MW/day or similar metric
+  - should mimic how awards are discussed
+  - book awards as trades?
+
